@@ -1,0 +1,4 @@
+http://reduxblog.herokuapp.com/
+
+check "Request method = options"
+	this is used for making cross origin calls like ajax requests
